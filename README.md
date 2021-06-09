@@ -15,8 +15,9 @@ This is a pretty simple attack, but I'll put it in here. As the title says, it u
 
 `` iptables -A PREROUTING -t raw -p tcp -m bpf --bytecode "12,48 0 0 0,84 0 0 240,21 0 8 64,48 0 0 9,21 0 6 6,40 0 0 6,69 4 0 8191,177 0 0 0,80 0 0 13,21 0 1 2048,6 0 0 65535,6 0 0 0 " -m comment --comment "random-tcp" -j ACCEPT``
 
-You can put the simple rule into practice to stop the vector.
+# Capture #2
 
+bluesyn.pcap
 
 
 
