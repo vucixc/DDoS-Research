@@ -1,1 +1,0 @@
-Looks like I found another attack with a false title, there is NO SYN in this capture at all; not even legitmate traffic. Anyways, let's get to the attack. This attack looks to be based off the [random-tcp-flag.pcap](https://github.com/vucixc/DDoS-Research/blob/main/tcp-flag.md)
