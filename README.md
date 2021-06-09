@@ -11,9 +11,7 @@ I'll be going over what stood out to me. Lets first begin to talk about common D
 
 [Research on random TCP Flag](https://github.com/vucixc/DDoS-Research/blob/main/tcp-flag.md)
 
-Placeholder
-
-Placeholder
+[Research on Blue(SYN)](https://github.com/vucixc/DDoS-Research/blob/main/blue(syn).md) - NOTE `this attack is very simple, thus a detailed explanation is not needed`
 
 Placeholder
 
